@@ -110,7 +110,7 @@ export default function WelcomePage() {
       <section className="py-20 px-4 relative z-10 bg-card/50">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="font-serif font-bold text-4xl md:text-5xl mb-6 text-foreground">Prime Locations</h2>
+            <h2 className="font-serif font-bold text-4xl md:text-5xl mb-6 text-foreground"> Locations</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               Strategically located in Accra's most desirable neighborhoods
             </p>
